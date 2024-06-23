@@ -11,6 +11,6 @@ if(3**2 + 4**2 == 25):
 else:
     print("2**2 + 4**2 does not equal 25")
 if(2 + 4 + 6 > 12):
-    print("2 + 4 + 6 equals 12")
+    print("2 + 4 + 6 is higher than 12")
 else:
-    print("2+4+6 does not equal 12")
+    print("2+4+6 does not equal or is higher than 12")
